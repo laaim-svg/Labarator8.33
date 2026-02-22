@@ -49,4 +49,4 @@ int main() {
 		delete[] t;
 	}
 	return 0;
-}
+}//проверка
